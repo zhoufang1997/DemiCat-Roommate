@@ -9,8 +9,11 @@
         <e p="Scripts" t="Include">
           <e p="AddPointOnCorrectButtonClick.cs" t="Include" />
           <e p="DisplayFeedBackFace.cs" t="Include" />
+          <e p="DisplayResultFace.cs" t="Include" />
+          <e p="DisplayResultText.cs" t="Include" />
           <e p="PointKeeper.cs" t="Include" />
           <e p="QuestionAnsweredOnButtonClick.cs" t="Include" />
+          <e p="ResizeCanvusOnRuntime.cs" t="Include" />
           <e p="SetInactiveOnClick.cs" t="Include" />
           <e p="SetNextObjectActiveOnClick.cs" t="Include" />
         </e>

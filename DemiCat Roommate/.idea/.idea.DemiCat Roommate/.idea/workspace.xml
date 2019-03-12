@@ -53,7 +53,35 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/DisplayResultFace.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="17" column="44" selection-start-line="17" selection-start-column="44" selection-end-line="17" selection-end-column="44" />
+              <folding>
+                <marker date="1552376993716" expanded="false" signature="6:78" ph="..." />
+                <marker date="1552376993716" expanded="true" signature="126:445" ph="{...}" />
+                <marker date="1552376993716" expanded="true" signature="323:443" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/ResizeCanvusOnRuntime.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="14" column="58" selection-start-line="14" selection-start-column="58" selection-end-line="14" selection-end-column="58" />
+              <folding>
+                <marker date="1552377366592" expanded="false" signature="6:78" ph="..." />
+                <marker date="1552377366592" expanded="true" signature="130:599" ph="{...}" />
+                <marker date="1552377366592" expanded="true" signature="202:597" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/SetNextObjectActiveOnClick.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="30">
@@ -62,6 +90,20 @@
                 <marker date="1552371016239" expanded="false" signature="6:78" ph="..." />
                 <marker date="1552371016239" expanded="true" signature="135:252" ph="{...}" />
                 <marker date="1552371016239" expanded="true" signature="200:250" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/DisplayResultText.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="16" column="46" selection-start-line="16" selection-start-column="46" selection-end-line="16" selection-end-column="46" />
+              <folding>
+                <marker date="1552376951360" expanded="false" signature="6:91" ph="..." />
+                <marker date="1552376951360" expanded="true" signature="139:441" ph="{...}" />
+                <marker date="1552376951360" expanded="true" signature="292:439" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -89,9 +131,12 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/AddPointOnCorrectButtonClick.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/SetInactiveOnClick.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/DisplayResultText.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/DisplayResultFace.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/SetNextObjectActiveOnClick.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/DisplayFeedBackFace.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/PointKeeper.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ResizeCanvusOnRuntime.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -105,14 +150,17 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/SetNextQuestionActive.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/SetNextQuestionActiveOnClick.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/SetNextObjectActiveOnClick.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/DisplayResultText.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/DisplayResultFace.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ResizeCanvusOnRuntime.cs" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="2764" />
-    <option name="y" value="-38" />
-    <option name="width" value="5152" />
-    <option name="height" value="2186" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-9" />
+    <option name="y" value="-9" />
+    <option name="width" value="2450" />
+    <option name="height" value="1580" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -175,12 +223,12 @@
       <option name="presentableId" value="Default" />
       <updated>1552252494555</updated>
       <workItem from="1552252502547" duration="599000" />
-      <workItem from="1552367945101" duration="3668000" />
+      <workItem from="1552367945101" duration="5953000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4267000" />
+    <option name="totallyTimeSpent" value="6552000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -192,10 +240,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="3834" y="-6" width="1633" height="1053" extended-state="6" />
-    <editor active="true" />
+    <frame x="-7" y="-7" width="2575" height="1415" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.40190476" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25168985" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Capture Tool" order="3" />
@@ -285,6 +332,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/SetNextObjectActiveOnClick.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="4" column="20" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
+          <folding>
+            <marker date="1552371016239" expanded="false" signature="6:78" ph="..." />
+            <marker date="1552371016239" expanded="true" signature="135:252" ph="{...}" />
+            <marker date="1552371016239" expanded="true" signature="200:250" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/DisplayFeedBackFace.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
@@ -297,14 +356,38 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/SetNextObjectActiveOnClick.cs">
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/DisplayResultText.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="4" column="20" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
+        <state relative-caret-position="195">
+          <caret line="16" column="46" selection-start-line="16" selection-start-column="46" selection-end-line="16" selection-end-column="46" />
           <folding>
-            <marker date="1552371016239" expanded="false" signature="6:78" ph="..." />
-            <marker date="1552371016239" expanded="true" signature="135:252" ph="{...}" />
-            <marker date="1552371016239" expanded="true" signature="200:250" ph="{...}" />
+            <marker date="1552376951360" expanded="false" signature="6:91" ph="..." />
+            <marker date="1552376951360" expanded="true" signature="139:441" ph="{...}" />
+            <marker date="1552376951360" expanded="true" signature="292:439" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/DisplayResultFace.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="17" column="44" selection-start-line="17" selection-start-column="44" selection-end-line="17" selection-end-column="44" />
+          <folding>
+            <marker date="1552376993716" expanded="false" signature="6:78" ph="..." />
+            <marker date="1552376993716" expanded="true" signature="126:445" ph="{...}" />
+            <marker date="1552376993716" expanded="true" signature="323:443" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/ResizeCanvusOnRuntime.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="14" column="58" selection-start-line="14" selection-start-column="58" selection-end-line="14" selection-end-column="58" />
+          <folding>
+            <marker date="1552377366592" expanded="false" signature="6:78" ph="..." />
+            <marker date="1552377366592" expanded="true" signature="130:599" ph="{...}" />
+            <marker date="1552377366592" expanded="true" signature="202:597" ph="{...}" />
           </folding>
         </state>
       </provider>
