@@ -57,7 +57,12 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\QuestionAnsweredOnButtonClick.cs" />
+    <Compile Include="Assets\Scripts\AddPointOnCorrectButtonClick.cs" />
+    <Compile Include="Assets\Scripts\DisplayFeedBackFace.cs" />
+    <Compile Include="Assets\Scripts\PointKeeper.cs" />
+    <Compile Include="Assets\Scripts\QuestionAnsweredOnButtonClick.cs" />
+    <Compile Include="Assets\Scripts\SetInactiveOnClick.cs" />
+    <Compile Include="Assets\Scripts\SetNextObjectActiveOnClick.cs" />
     <None Include="Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Surface-Mobile.shader" />
     <None Include="Assets\TextMesh Pro\Resources\LineBreaking Leading Characters.txt" />
     <None Include="Assets\TextMesh Pro\Resources\Shaders\TMPro_Properties.cginc" />

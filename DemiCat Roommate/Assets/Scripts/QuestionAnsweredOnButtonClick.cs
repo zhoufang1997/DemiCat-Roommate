@@ -4,15 +4,12 @@ using UnityEngine;
 
 public class QuestionAnsweredOnButtonClick : MonoBehaviour
 {
-    // Start is called before the first frame update
-    void Start()
-    {
-        
-    }
 
-    // Update is called once per frame
-    void Update()
+    public Animator GMAnimator;
+    public int questionNum;
+
+    public void OnClick()
     {
-        
+        GMAnimator.SetBool("Question" + questionNum + "Answered", true);
     }
 }
