@@ -57,6 +57,8 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\ButtonGenerator.cs" />
+    <Compile Include="Assets\DestroyChildObjectsWithTag.cs" />
     <Compile Include="Assets\Scripts\AddPointOnCorrectButtonClick.cs" />
     <Compile Include="Assets\Scripts\DisplayFeedBackFace.cs" />
     <Compile Include="Assets\Scripts\DisplayResultFace.cs" />
